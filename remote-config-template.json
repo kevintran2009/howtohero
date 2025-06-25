@@ -1,0 +1,15 @@
+{
+  "conditions": [],
+  "parameters": {
+    "welcome_message": {
+      "defaultValue": {
+        "value": "Welcome to our app!"
+      }
+    },
+    "feature_enabled": {
+      "defaultValue": {
+        "value": "false"
+      }
+    }
+  }
+}
